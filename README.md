@@ -69,9 +69,7 @@ For those who want to work on or develop the project, the **information** about 
 > • `function  handleGameStatus()` : It has functions and features such as defining and displaying the text that will appear on the screen depending on whether the game is successfully completed or not.<br>
 > • `function  animation()` : It is the main function of the game. It allows calling defined functions and repeating them recursively, unless the game ends.<br>
 > • `function  collision(first,  second)` : It is used to check the coincidence of the coordinates of two defined units.<br>
-## Author
-`Fatih Es`
-*You can fallow me on [LinkedIn](https://www.linkedin.com/in/fatihes/) and you can check my resume [website](https://fatihes1.github.io/) !*
+
 
 
 
